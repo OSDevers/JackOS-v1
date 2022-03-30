@@ -1,0 +1,12 @@
+class ROM {
+	
+	static Array RAM
+	static Array ROM
+	
+	function void init() {
+		let RAM = 0;
+		let ROM = 10252;
+	}
+	
+	
+}
