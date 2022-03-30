@@ -8,7 +8,7 @@ mem bank 0:
 10242 = UART MMIO
 10243 - 10251 = digital GPIO
 10252 - 26636 = External ROM MMIO
-26637 = CableNet In
+26636 = CableNet In
 26638 = CableNet Out
 
 mem bank 1:
